@@ -1,3 +1,8 @@
+# Adding my content to the top in order to test
+Kunal is Learning Ruby on Rails and is very excited !!
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
